@@ -1,3 +1,13 @@
+---
+title: クローブ強めの大鍋チャイ
+document_type: history
+category: drink
+status: tested
+created_at: 2026-07-25
+tags:
+  - meal-prep
+  - experimental
+---
 # クローブ強めの大鍋チャイ
 
 ## 調理日

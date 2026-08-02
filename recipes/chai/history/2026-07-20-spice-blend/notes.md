@@ -1,3 +1,12 @@
+---
+title: 複数スパイスのチャイ
+document_type: history
+category: drink
+status: tested
+created_at: 2026-07-20
+tags:
+  - experimental
+---
 # 複数スパイスのチャイ
 
 ## 調理日

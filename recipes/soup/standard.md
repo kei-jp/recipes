@@ -1,3 +1,13 @@
+---
+title: 鯖とレンズ豆の和風だしスパイススープ（標準）
+document_type: standard
+category: soup
+status: standard
+created_at: 2026-07-19
+tags:
+  - meal-prep
+  - one-pot
+---
 # 鯖とレンズ豆の和風だしスパイススープ（標準）
 
 ## 位置づけ

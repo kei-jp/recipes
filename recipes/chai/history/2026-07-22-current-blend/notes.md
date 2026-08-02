@@ -1,3 +1,12 @@
+---
+title: カルダモン主体チャイ・現時点の試作配合
+document_type: history
+category: drink
+status: tested
+created_at: 2026-07-22
+tags:
+  - experimental
+---
 # カルダモン主体チャイ・現時点の試作配合
 
 ## 調理日

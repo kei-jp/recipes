@@ -1,3 +1,12 @@
+---
+title: 毎日飲める甘さ控えめチャイ（標準）
+document_type: standard
+category: drink
+status: standard
+created_at: 2026-07-19
+tags:
+  - mild
+---
 # 毎日飲める甘さ控えめチャイ（標準）
 
 ## 位置づけ

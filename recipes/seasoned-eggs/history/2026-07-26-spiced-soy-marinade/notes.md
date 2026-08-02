@@ -1,3 +1,12 @@
+---
+title: スパイス味付け卵 調味液メモ
+document_type: history
+category: side-dish
+status: tested
+created_at: 2026-07-26
+tags:
+  - experimental
+---
 # スパイス味付け卵 調味液メモ
 
 ## 作成日

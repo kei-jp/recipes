@@ -1,3 +1,12 @@
+---
+title: カルダモン主体のチャイ専用マサラ PoC（標準）
+document_type: standard
+category: spice-blend
+status: standard
+created_at: 2026-07-19
+tags:
+  - experimental
+---
 # カルダモン主体のチャイ専用マサラ PoC（標準）
 
 ## 位置づけ

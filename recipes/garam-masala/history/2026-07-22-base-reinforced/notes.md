@@ -1,3 +1,12 @@
+---
+title: 土台を強化したガラムマサラ
+document_type: history
+category: spice-blend
+status: tested
+created_at: 2026-07-22
+tags:
+  - experimental
+---
 # 土台を強化したガラムマサラ
 
 ## 作成日

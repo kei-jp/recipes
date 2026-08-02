@@ -1,3 +1,14 @@
+---
+title: 毎週作れる定番ダルカレー（標準）
+document_type: standard
+category: curry
+status: standard
+created_at: 2026-07-19
+tags:
+  - meal-prep
+  - one-pot
+  - freezer-friendly
+---
 # 毎週作れる定番ダルカレー（標準）
 
 ## 位置づけ

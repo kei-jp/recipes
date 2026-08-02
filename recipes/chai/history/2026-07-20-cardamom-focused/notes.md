@@ -1,3 +1,12 @@
+---
+title: カルダモンを知るチャイ
+document_type: history
+category: drink
+status: tested
+created_at: 2026-07-20
+tags:
+  - experimental
+---
 # カルダモンを知るチャイ
 
 ## 調理日

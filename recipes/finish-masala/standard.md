@@ -1,3 +1,12 @@
+---
+title: 鯖スープ・豆スープ用仕上げマサラ PoC（標準）
+document_type: standard
+category: spice-blend
+status: standard
+created_at: 2026-07-19
+tags:
+  - experimental
+---
 # 鯖スープ・豆スープ用仕上げマサラ PoC（標準）
 
 ## 位置づけ

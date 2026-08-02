@@ -1,3 +1,12 @@
+---
+title: 鶏むね肉の炊飯器保温調理（標準）
+document_type: standard
+category: other
+status: standard
+created_at: 2026-07-17
+tags:
+  - meal-prep
+---
 # 鶏むね肉の炊飯器保温調理（標準）
 
 ## 位置づけ

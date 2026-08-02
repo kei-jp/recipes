@@ -1,3 +1,14 @@
+---
+title: 鯖と冷凍そら豆の和風だしスパイススープ
+document_type: history
+category: soup
+status: tested
+created_at: 2026-07-21
+tags:
+  - meal-prep
+  - one-pot
+  - experimental
+---
 # 鯖と冷凍そら豆の和風だしスパイススープ
 
 ## 調理日

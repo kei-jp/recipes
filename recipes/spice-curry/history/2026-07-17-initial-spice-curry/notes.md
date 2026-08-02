@@ -1,3 +1,13 @@
+---
+title: 初回スパイスカレー調理記録
+document_type: history
+category: curry
+status: tested
+created_at: 2026-07-17
+tags:
+  - meal-prep
+  - experimental
+---
 # 初回スパイスカレー調理記録
 
 ## 調理日

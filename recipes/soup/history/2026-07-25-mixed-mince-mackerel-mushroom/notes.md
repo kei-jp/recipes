@@ -1,3 +1,15 @@
+---
+title: 鯖と合いびき肉・きのこの大鍋スパイススープ
+document_type: history
+category: soup
+status: tested
+created_at: 2026-07-25
+tags:
+  - meal-prep
+  - one-pot
+  - high-protein
+  - experimental
+---
 # 鯖と合いびき肉・きのこの大鍋スパイススープ
 
 ## 調理日

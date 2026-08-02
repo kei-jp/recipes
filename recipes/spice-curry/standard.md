@@ -1,3 +1,14 @@
+---
+title: 平日作り置き用スパイスカレー（標準）
+document_type: standard
+category: curry
+status: standard
+created_at: 2026-07-17
+tags:
+  - meal-prep
+  - blender
+  - freezer-friendly
+---
 # 平日作り置き用スパイスカレー（標準）
 
 ## 位置づけ

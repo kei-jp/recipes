@@ -1,3 +1,12 @@
+---
+title: ガラムマサラ試作メモ
+document_type: history
+category: spice-blend
+status: tested
+created_at: 2026-07-26
+tags:
+  - experimental
+---
 # ガラムマサラ試作メモ
 
 ## 調合日

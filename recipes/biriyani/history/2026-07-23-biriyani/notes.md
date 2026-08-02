@@ -1,3 +1,14 @@
+---
+title: ビリヤニ（試作 Ver.1 実施記録）
+document_type: history
+category: rice
+status: needs-improvement
+created_at: 2026-07-23
+tags:
+  - meal-prep
+  - high-protein
+  - experimental
+---
 # ビリヤニ（試作 Ver.1 実施記録）
 
 ## 調理日

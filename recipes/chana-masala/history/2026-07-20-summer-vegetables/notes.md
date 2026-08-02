@@ -1,3 +1,13 @@
+---
+title: 夏野菜のチャナマサラ
+document_type: history
+category: curry
+status: tested
+created_at: 2026-07-20
+tags:
+  - summer
+  - experimental
+---
 # 夏野菜のチャナマサラ
 
 ## 調理日

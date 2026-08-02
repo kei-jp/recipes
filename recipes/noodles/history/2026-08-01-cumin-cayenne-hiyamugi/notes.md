@@ -1,3 +1,14 @@
+---
+title: クミンとカイエンの冷や麦
+document_type: history
+category: noodles
+status: tested
+created_at: 2026-08-01
+tags:
+  - quick
+  - summer
+  - experimental
+---
 # クミンとカイエンの冷や麦
 
 ## 位置づけ

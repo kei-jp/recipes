@@ -1,3 +1,14 @@
+---
+title: 鶏むね・ひよこ豆・セロリのトマトスパイススープ
+document_type: history
+category: soup
+status: tested
+created_at: 2026-08-01
+tags:
+  - meal-prep
+  - blender
+  - experimental
+---
 # 鶏むね・ひよこ豆・セロリのトマトスパイススープ
 
 ## 位置づけ

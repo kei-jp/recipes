@@ -1,3 +1,13 @@
+---
+title: 作り置きスパイス味付け卵（標準）
+document_type: standard
+category: side-dish
+status: standard
+created_at: 2026-07-19
+tags:
+  - meal-prep
+  - high-protein
+---
 # 作り置きスパイス味付け卵（標準）
 
 ## 位置づけ

@@ -1,3 +1,13 @@
+---
+title: 濃縮ココナッツグリーンカレー 初回試作
+document_type: history
+category: curry
+status: needs-improvement
+created_at: 2026-07-27
+tags:
+  - blender
+  - experimental
+---
 # 濃縮ココナッツグリーンカレー 初回試作
 
 ## 作成日

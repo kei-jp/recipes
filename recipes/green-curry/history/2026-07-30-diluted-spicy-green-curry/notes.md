@@ -1,3 +1,13 @@
+---
+title: 水と追いスパイスで調整したグリーンカレー
+document_type: history
+category: curry
+status: tested
+created_at: 2026-07-30
+tags:
+  - rescue
+  - experimental
+---
 # 水と追いスパイスで調整したグリーンカレー
 
 ## 調整日
