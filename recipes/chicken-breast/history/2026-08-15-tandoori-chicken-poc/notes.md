@@ -1,6 +1,6 @@
 ---
 title: タンドリーチキン風 鶏むね肉PoC
- document_type: history
+document_type: history
 category: other
 status: trial
 created_at: 2026-08-15
