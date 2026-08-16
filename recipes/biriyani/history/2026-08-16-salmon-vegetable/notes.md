@@ -1,5 +1,5 @@
 ---
-title: 鮭と野菜のビリヤニ
+title: 2026-08-16 鮭と野菜のビリヤニ
 document_type: history
 category: rice
 status: tested

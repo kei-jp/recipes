@@ -2,7 +2,7 @@
 title: タンドリーチキン風 鶏むね肉PoC
 document_type: history
 category: other
-status: trial
+status: tested
 created_at: 2026-08-15
 tags:
   - chicken-breast

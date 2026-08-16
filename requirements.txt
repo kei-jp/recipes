@@ -1,0 +1,2 @@
+# Python標準ライブラリにYAML parserがないため、Front Matter解析に使用する。
+PyYAML>=6.0,<7
