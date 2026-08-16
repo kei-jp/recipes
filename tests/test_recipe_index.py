@@ -6,6 +6,8 @@ from pathlib import Path
 
 from scripts.recipe_index import (
     README_RELATIVE_PATH,
+    RECIPE_INDEX_END,
+    RECIPE_INDEX_START,
     RecipeIndexError,
     check_command,
     generate_command,
@@ -26,6 +28,12 @@ class RecipeIndexTests(unittest.TestCase):
         (root / ".skills/recipe-frontmatter").mkdir(parents=True)
         (root / ".skills/recipe-frontmatter/SKILL.md").write_text(
             skill.read_text(encoding="utf-8"),
+            encoding="utf-8",
+        )
+        (root / README_RELATIVE_PATH).write_text(
+            "# Human README\n\n"
+            f"{RECIPE_INDEX_START}\n\n{RECIPE_INDEX_END}\n\n"
+            "## Human Notes\n\nKeep this section.\n",
             encoding="utf-8",
         )
         return root
@@ -144,6 +152,21 @@ class RecipeIndexTests(unittest.TestCase):
 
         self.assertTrue(any("document_type: standardには" in error for error in errors))
 
+    def test_validate_rejects_history_title_with_date_prefix(self) -> None:
+        root = self._root()
+        self._write_recipe(
+            root,
+            relative_path="soup/history/2026-08-16-trial/notes.md",
+            title="2026-08-16 試作スープ",
+            document_type="history",
+            status="tested",
+            body_title="2026-08-16 試作スープ",
+        )
+
+        _, errors = validate_repository(root)
+
+        self.assertTrue(any("historyのtitleには調理日" in error for error in errors))
+
     def test_generator_groups_categories_sorts_dates_and_links(self) -> None:
         root = self._root()
         self._write_recipe(root, relative_path="soup/standard.md", title="標準スープ", created_at="2026-08-01")
@@ -170,9 +193,9 @@ class RecipeIndexTests(unittest.TestCase):
         self.assertEqual(generate_command(root), 0)
         output = (root / README_RELATIVE_PATH).read_text(encoding="utf-8")
 
-        self.assertLess(output.index("## curry"), output.index("## soup"))
+        self.assertLess(output.index("### curry"), output.index("### soup"))
         self.assertLess(output.index("新しい試作"), output.index("古い試作"))
-        self.assertIn("[open](soup/history/2026-08-16-trial/notes.md)", output)
+        self.assertIn("[open](recipes/soup/history/2026-08-16-trial/notes.md)", output)
         self.assertIn("★★★★☆ (4)", output)
         self.assertIn("|  |", output)
 
@@ -190,8 +213,37 @@ class RecipeIndexTests(unittest.TestCase):
         self.assertEqual(generate_command(root), 0)
         output = (root / README_RELATIVE_PATH).read_text(encoding="utf-8")
 
-        self.assertLess(output.index("### 標準レシピ"), output.index("### 履歴・試作"))
+        self.assertLess(output.index("#### 標準レシピ"), output.index("#### 履歴・試作"))
         self.assertIn("|  |  |", output)
+
+    def test_generator_preserves_content_outside_markers(self) -> None:
+        root = self._root()
+        self._write_recipe(root)
+        before = "# Human README\n\n説明を保持する。\n\n"
+        after = "\n\n## Human Notes\n\nこの領域も保持する。\n"
+        (root / README_RELATIVE_PATH).write_text(
+            before + f"{RECIPE_INDEX_START}\nold\n{RECIPE_INDEX_END}" + after,
+            encoding="utf-8",
+        )
+
+        self.assertEqual(generate_command(root), 0)
+        output = (root / README_RELATIVE_PATH).read_text(encoding="utf-8")
+
+        self.assertTrue(output.startswith(before))
+        self.assertTrue(output.endswith(after))
+        self.assertIn("## Recipe Index", output)
+        self.assertNotIn("\nold\n", output)
+
+    def test_generator_rejects_missing_markers(self) -> None:
+        root = self._root()
+        self._write_recipe(root)
+        path = root / README_RELATIVE_PATH
+        path.write_text("# Human README\n", encoding="utf-8")
+
+        with contextlib.redirect_stderr(io.StringIO()):
+            self.assertEqual(generate_command(root), 1)
+
+        self.assertEqual(path.read_text(encoding="utf-8"), "# Human README\n")
 
     def test_generator_is_deterministic(self) -> None:
         root = self._root()
