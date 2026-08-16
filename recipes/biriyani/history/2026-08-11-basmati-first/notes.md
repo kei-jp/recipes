@@ -1,3 +1,25 @@
+---
+title: バスマティライス初回ビリヤニ
+document_type: history
+category: rice
+status: tested
+created_at: 2026-08-11
+tags:
+  - meal-prep
+  - experimental
+  - spicy
+cuisine:
+  - indian-inspired
+meal:
+  - dinner
+  - meal-prep
+protein:
+  - chicken
+methods:
+  - parboil
+  - steam
+servings: 7
+---
 # 2026-08-11 バスマティライス初回ビリヤニ
 
 ## 概要
