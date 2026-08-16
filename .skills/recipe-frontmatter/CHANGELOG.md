@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-16 <change>: historyのtitle/H1の日付重複ルールを追加
+
+- `created_at` を日付のSSOTとし、`history` の `title` と本文先頭H1へ調理日を重複記載しないルールを追加
+
 ## 2026-08-02_124200 <feat>: v1.0.0 レシピFront Matterルールを新規作成
 
 - 必須フィールドと任意フィールドを定義

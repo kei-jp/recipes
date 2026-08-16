@@ -1,5 +1,5 @@
 ---
-title: 2026-08-11 バスマティライス初回ビリヤニ
+title: バスマティライス初回ビリヤニ
 document_type: history
 category: rice
 status: tested
@@ -20,7 +20,7 @@ methods:
   - steam
 servings: 7
 ---
-# 2026-08-11 バスマティライス初回ビリヤニ
+# バスマティライス初回ビリヤニ
 
 ## 概要
 

@@ -1,5 +1,5 @@
 ---
-title: 2026-08-16 鮭と野菜のビリヤニ
+title: 鮭と野菜のビリヤニ
 document_type: history
 category: rice
 status: tested
@@ -21,7 +21,7 @@ methods:
 servings: 7
 rating: 5
 ---
-# 2026-08-16 鮭と野菜のビリヤニ
+# 鮭と野菜のビリヤニ
 
 ## 概要
 

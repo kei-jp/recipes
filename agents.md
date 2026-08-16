@@ -131,7 +131,8 @@ recipes/
 
 - Front Matter schemaのSSOTは .skills/recipe-frontmatter/SKILL.md とし、agents.md でschemaを重複定義しない。
 - 対象Markdownの作成・更新は同Skillに準拠する。
-- recipes/README.md はgeneratorによる自動生成物とし、自動生成範囲を手編集しない。
+- root README.md 全体は自動生成せず、recipe-index marker区間のみgeneratorの管理対象とする。
+- recipe-index marker区間は手編集せず、その他のREADME領域は人間が編集してよい。
 - Front Matter変更後はindex生成・検証を行う。
 
 - `ingredients/spices.md` と `ingredients/pantry.md` は厳密な在庫台帳ではなく、普段使える可能性が高いスパイス・食材の候補リストとして扱う。
