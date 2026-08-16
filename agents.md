@@ -129,6 +129,11 @@ recipes/
 
 ## Ingredients Lists
 
+- Front Matter schemaのSSOTは .skills/recipe-frontmatter/SKILL.md とし、agents.md でschemaを重複定義しない。
+- 対象Markdownの作成・更新は同Skillに準拠する。
+- recipes/README.md はgeneratorによる自動生成物とし、自動生成範囲を手編集しない。
+- Front Matter変更後はindex生成・検証を行う。
+
 - `ingredients/spices.md` と `ingredients/pantry.md` は厳密な在庫台帳ではなく、普段使える可能性が高いスパイス・食材の候補リストとして扱う。
 - リストにあるものは「大体いつでも使える」前提でレシピを設計してよいが、調理時に不足している可能性は残るため、必要に応じて代替案を示す。
 - リスト外のスパイスや食材を提案してよい。料理上の効果、必要量、入手性、必須か任意かを明示し、可能性を最初から除外しない。

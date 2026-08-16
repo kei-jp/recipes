@@ -1,5 +1,5 @@
 ---
-title: バスマティライス初回ビリヤニ
+title: 2026-08-11 バスマティライス初回ビリヤニ
 document_type: history
 category: rice
 status: tested
