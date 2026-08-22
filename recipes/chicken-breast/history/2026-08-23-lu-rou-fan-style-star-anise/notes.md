@@ -4,6 +4,9 @@ document_type: history
 category: other
 status: draft
 created_at: 2026-08-23
+tags:
+  - meal-prep
+  - experimental
 meal:
   - lunch
   - dinner
@@ -12,9 +15,6 @@ protein:
   - chicken
 methods:
   - simmer
-tags:
-  - meal-prep
-  - experimental
 related:
   standard: recipes/chicken-breast/standard.md
 ---
