@@ -77,6 +77,7 @@ The goal is not to collect recipes, but to build reusable cooking knowledge thro
 
 | date | title | document_type | status | rating | servings | link |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-23 | ルーローハン風スターアニス塩麹だれの鶏むね肉仕込み | history | draft |  |  | [open](recipes/chicken-breast/history/2026-08-23-lu-rou-fan-style-star-anise/notes.md) |
 | 2026-08-15 | タンドリーチキン風 鶏むね肉PoC | history | tested |  |  | [open](recipes/chicken-breast/history/2026-08-15-tandoori-chicken-poc/notes.md) |
 
 ### rice
@@ -117,6 +118,7 @@ The goal is not to collect recipes, but to build reusable cooking knowledge thro
 
 | date | title | document_type | status | rating | servings | link |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-22 | 鯖と野菜の無国籍トマトスパイススープ | history | tested |  |  | [open](recipes/soup/history/2026-08-22-mackerel-vegetable-tomato-spice/notes.md) |
 | 2026-08-01 | 鶏むね・ひよこ豆・セロリのトマトスパイススープ | history | tested |  |  | [open](recipes/soup/history/2026-08-01-chicken-chickpea-celery-tomato/notes.md) |
 | 2026-07-25 | 鯖と合いびき肉・きのこの大鍋スパイススープ | history | tested |  |  | [open](recipes/soup/history/2026-07-25-mixed-mince-mackerel-mushroom/notes.md) |
 | 2026-07-21 | 鯖と冷凍そら豆の和風だしスパイススープ | history | tested |  |  | [open](recipes/soup/history/2026-07-19-frozen-fava-beans-corn-miso/notes.md) |
