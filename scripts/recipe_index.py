@@ -74,7 +74,7 @@ def _field_section(text: str, field: str) -> str:
     match = marker.search(text)
     if match is None:
         return ""
-    next_match = re.search(r"^##\s+.+$", text[match.end() :], re.MULTILINE)
+    next_match = re.search(r"^#{1,2}\s+.+$", text[match.end() :], re.MULTILINE)
     end = match.end() + next_match.start() if next_match else len(text)
     return text[match.end() : end]
 
