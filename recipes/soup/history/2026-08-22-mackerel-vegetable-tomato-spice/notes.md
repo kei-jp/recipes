@@ -4,6 +4,9 @@ document_type: history
 category: soup
 status: tested
 created_at: 2026-08-22
+tags:
+  - meal-prep
+  - one-pot
 meal:
   - lunch
   - dinner
@@ -17,9 +20,6 @@ methods:
   - simmer
 source:
   type: original
-tags:
-  - meal-prep
-  - one-pot
 ---
 # 鯖と野菜の無国籍トマトスパイススープ
 
