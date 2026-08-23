@@ -86,6 +86,7 @@ The goal is not to collect recipes, but to build reusable cooking knowledge thro
 
 | date | title | document_type | status | rating | servings | link |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-23 | ホルモン・大葉・野菜の浸水米ビリヤニ試作 | history | draft |  |  | [open](recipes/biriyani/history/2026-08-23-offal-shiso-vegetable/notes.md) |
 | 2026-08-19 | シーチキンと野菜のビリヤニ | history | needs-improvement |  | 8 | [open](recipes/biriyani/history/2026-08-19-tuna-vegetable/notes.md) |
 | 2026-08-16 | 鮭と野菜のビリヤニ | history | tested | ★★★★★ (5) | 7 | [open](recipes/biriyani/history/2026-08-16-salmon-vegetable/notes.md) |
 | 2026-08-11 | バスマティライス初回ビリヤニ | history | tested |  | 7 | [open](recipes/biriyani/history/2026-08-11-basmati-first/notes.md) |
