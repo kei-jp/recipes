@@ -78,6 +78,7 @@ The goal is not to collect recipes, but to build reusable cooking knowledge thro
 
 | date | title | document_type | status | rating | servings | link |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-28 | 八角とクミンのルーローハン風塩麹だれ鶏むね肉 | history | tested |  |  | [open](recipes/chicken-breast/history/2026-08-28-lu-rou-fan-style-cumin/notes.md) |
 | 2026-08-23 | ルーローハン風スターアニス塩麹だれの鶏むね肉仕込み | history | tested |  |  | [open](recipes/chicken-breast/history/2026-08-23-lu-rou-fan-style-star-anise/notes.md) |
 | 2026-08-15 | タンドリーチキン風 鶏むね肉PoC | history | tested |  |  | [open](recipes/chicken-breast/history/2026-08-15-tandoori-chicken-poc/notes.md) |
 
