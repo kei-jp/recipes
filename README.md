@@ -33,6 +33,7 @@ The goal is not to collect recipes, but to build reusable cooking knowledge thro
 
 | date | title | document_type | status | rating | servings | link |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-28 | 炒めず15分で作る簡易チャナマサラ | history | tested |  |  | [open](recipes/curry/chana-masala/history/2026-08-28-quick-no-saute/notes.md) |
 | 2026-08-08 | 鶏むね肉とひよこ豆のスパイスカレー調理記録 | history | tested |  |  | [open](recipes/curry/spice-curry/history/2026-08-08-chicken-chickpea-spice-curry/notes.md) |
 | 2026-07-30 | 水と追いスパイスで調整したグリーンカレー | history | tested |  |  | [open](recipes/curry/green-curry/history/2026-07-30-diluted-spicy-green-curry/notes.md) |
 | 2026-07-27 | 濃縮ココナッツグリーンカレー 初回試作 | history | needs-improvement |  |  | [open](recipes/curry/green-curry/history/2026-07-27-concentrated-coconut-green-curry/notes.md) |
