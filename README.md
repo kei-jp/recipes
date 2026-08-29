@@ -33,7 +33,6 @@ The goal is not to collect recipes, but to build reusable cooking knowledge thro
 
 | date | title | document_type | status | rating | servings | link |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-08-28 | 炒めず15分で作る簡易チャナマサラ | history | tested |  |  | [open](recipes/curry/chana-masala/history/2026-08-28-quick-no-saute/notes.md) |
 | 2026-08-27 | 鶏むねミンチとえのきの簡単チャナマサラ | history | tested |  |  | [open](recipes/curry/chana-masala/history/2026-08-27-chicken-mince-enoki-one-pot/notes.md) |
 | 2026-08-08 | 鶏むね肉とひよこ豆のスパイスカレー調理記録 | history | tested |  |  | [open](recipes/curry/spice-curry/history/2026-08-08-chicken-chickpea-spice-curry/notes.md) |
 | 2026-07-30 | 水と追いスパイスで調整したグリーンカレー | history | tested |  |  | [open](recipes/curry/green-curry/history/2026-07-30-diluted-spicy-green-curry/notes.md) |
@@ -95,6 +94,14 @@ The goal is not to collect recipes, but to build reusable cooking knowledge thro
 | 2026-08-11 | バスマティライス初回ビリヤニ | history | tested |  | 7 | [open](recipes/biriyani/history/2026-08-11-basmati-first/notes.md) |
 | 2026-08-03 | 日本米ビリヤニ（試作 Ver.2 重ね蒸し） | history | needs-improvement |  | 6 | [open](recipes/biriyani/history/2026-08-03-japanese-rice-layered/notes.md) |
 | 2026-07-23 | ビリヤニ（試作 Ver.1 実施記録） | history | needs-improvement |  |  | [open](recipes/biriyani/history/2026-07-23-biriyani/notes.md) |
+
+### sauce
+
+#### 履歴・試作
+
+| date | title | document_type | status | rating | servings | link |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-28 | 炒めず15分で作るチャナチャツネ | history | tested |  |  | [open](recipes/chutney/chana-chutney/history/2026-08-28-quick-no-saute/notes.md) |
 
 ### side-dish
 
