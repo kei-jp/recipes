@@ -33,6 +33,7 @@ The goal is not to collect recipes, but to build reusable cooking knowledge thro
 
 | date | title | document_type | status | rating | servings | link |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-04 | 親鶏・タマリンド・自家製ギーを使った大容量ダルカレー | history | tested |  | 11 | [open](recipes/curry/dal-curry/history/2026-09-04-parent-chicken-tamarind-ghee/notes.md) |
 | 2026-08-31 | 万願寺唐辛子と手羽元のグリーンカレー | history | tested |  |  | [open](recipes/curry/green-curry/history/2026-08-31-manganji-chicken-green-curry/notes.md) |
 | 2026-08-27 | 鶏むねミンチとえのきの簡単チャナマサラ | history | tested |  |  | [open](recipes/curry/chana-masala/history/2026-08-27-chicken-mince-enoki-one-pot/notes.md) |
 | 2026-08-08 | 鶏むね肉とひよこ豆のスパイスカレー調理記録 | history | tested |  |  | [open](recipes/curry/spice-curry/history/2026-08-08-chicken-chickpea-spice-curry/notes.md) |
@@ -102,6 +103,7 @@ The goal is not to collect recipes, but to build reusable cooking knowledge thro
 
 | date | title | document_type | status | rating | servings | link |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-01 | トマト2缶のチャナチャツネ | history | tested |  |  | [open](recipes/chutney/chana-chutney/history/2026-09-01-double-tomato-chana-chutney/notes.md) |
 | 2026-08-28 | 炒めず15分で作るチャナチャツネ | history | tested |  |  | [open](recipes/chutney/chana-chutney/history/2026-08-28-quick-no-saute/notes.md) |
 
 ### side-dish
