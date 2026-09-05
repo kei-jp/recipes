@@ -1,6 +1,6 @@
 ---
 title: トマト2缶のチャナチャツネ
- document_type: history
+document_type: history
 category: sauce
 status: tested
 created_at: 2026-09-01
