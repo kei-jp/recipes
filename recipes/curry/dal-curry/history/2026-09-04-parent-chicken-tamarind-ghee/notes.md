@@ -4,6 +4,10 @@ document_type: history
 category: curry
 status: tested
 created_at: 2026-09-04
+tags:
+  - meal-prep
+  - freezer-friendly
+  - experimental
 cuisine:
   - indian-inspired
 meal:
@@ -19,10 +23,6 @@ methods:
   - boil
   - simmer
 servings: 11
-tags:
-  - meal-prep
-  - freezer-friendly
-  - experimental
 ---
 
 # 親鶏・タマリンド・自家製ギーを使った大容量ダルカレー
